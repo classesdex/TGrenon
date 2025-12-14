@@ -1,46 +1,46 @@
 
-𝟭-) pkg install git
+ğŸ­-) pkg install git
 
-𝟮-) pkg install python
+ğŸ®-) pkg install python
 
-𝟯-) apt upgrade
+ğŸ¯-) apt upgrade
 
-𝟰-) apt update
+ğŸ°-) apt update
 
-𝟱-) pip install colorama
+ğŸ±-) pip install colorama
 
-𝟲-) git clonehttps://github.com/classesdex/TGrenon
+ğŸ²-) git https://github.com/classesdex/TGrenon.git
 
-𝟳-) cd renonsms
+ğŸ³-) cd renonsms
 
-𝟴-) pip install -r requirements.txt
+ğŸ´-) pip install -r requirements.txt
 
-𝟵-) python LegacySMS.py
+ğŸµ-) python LegacySMS.py
 
 
 
-# 📜YASAL AÇIKLAMA
-𝗦𝗢𝗥𝗨𝗠𝗟𝗨𝗟𝗨𝗞 𝗥𝗘𝗗𝗗𝗜̇ 𝗕𝗘𝗬𝗔𝗡𝗜 (𝗗𝗶𝘀𝗰𝗹𝗮𝗶𝗺𝗲𝗿𝘀 𝗳𝗼𝗿 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗦𝗠𝗦 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝗦𝗰𝗿𝗶𝗽𝘁)
+# ğŸ“œYASAL AÃ‡IKLAMA
+ğ—¦ğ—¢ğ—¥ğ—¨ğ— ğ—Ÿğ—¨ğ—Ÿğ—¨ğ— ğ—¥ğ—˜ğ——ğ——ğ—œÌ‡ ğ—•ğ—˜ğ—¬ğ—”ğ—¡ğ—œ (ğ——ğ—¶ğ˜€ğ—°ğ—¹ğ—®ğ—¶ğ—ºğ—²ğ—¿ğ˜€ ğ—³ğ—¼ğ—¿ ğ—˜ğ—±ğ˜‚ğ—°ğ—®ğ˜ğ—¶ğ—¼ğ—»ğ—®ğ—¹ ğ—¦ğ— ğ—¦ ğ—§ğ—²ğ˜€ğ˜ğ—¶ğ—»ğ—´ ğ—¦ğ—°ğ—¿ğ—¶ğ—½ğ˜)
 
-𝗨𝗬𝗔𝗥𝗜:
-Bu Tool yalnızca eğitimsel ve yasal test ortamlarında kullanım amacıyla geliştirilmiştir.
-Bu Tool'un amacı, siber güvenlik, yazılım geliştirme ve ağ iletişimi konularında farkındalık yaratmak, sistem davranışlarını analiz etmek ve güvenlik testlerine katkı sağlamak amacıyla eğitimsel bir örnek sunmaktır.
-Kodun hiçbir şekilde kötüye kullanımı teşvik edilmemektedir.
+ğ—¨ğ—¬ğ—”ğ—¥ğ—œ:
+Bu Tool yalnÄ±zca eÄŸitimsel ve yasal test ortamlarÄ±nda kullanÄ±m amacÄ±yla geliÅŸtirilmiÅŸtir.
+Bu Tool'un amacÄ±, siber gÃ¼venlik, yazÄ±lÄ±m geliÅŸtirme ve aÄŸ iletiÅŸimi konularÄ±nda farkÄ±ndalÄ±k yaratmak, sistem davranÄ±ÅŸlarÄ±nÄ± analiz etmek ve gÃ¼venlik testlerine katkÄ± saÄŸlamak amacÄ±yla eÄŸitimsel bir Ã¶rnek sunmaktÄ±r.
+Kodun hiÃ§bir ÅŸekilde kÃ¶tÃ¼ye kullanÄ±mÄ± teÅŸvik edilmemektedir.
 
-𝗕𝗜𝗟𝗚𝗜𝗟𝗘𝗡𝗗𝗜𝗥𝗠𝗘:
+ğ—•ğ—œğ—Ÿğ—šğ—œğ—Ÿğ—˜ğ—¡ğ——ğ—œğ—¥ğ— ğ—˜:
 Bu Tool "https://github.com/classesdex/TGrenonaittir." aittir
 
-𝗞𝗨𝗟𝗟𝗔𝗡𝗜𝗖𝗜 𝗧𝗔𝗥𝗔𝗙𝗜𝗡𝗗𝗔𝗡 𝗞𝗔𝗕𝗨𝗟 𝗘𝗗𝗜̇𝗟𝗘𝗡 𝗦̧𝗔𝗥𝗧𝗟𝗔𝗥:
-Bu Tool'u yalnızca kendi sahip olduğunuz sistemler üzerinde veya yazılı izninizin olduğu sistemlerde kullanmayı kabul etmektesiniz.
-Bu Tool'u herhangi bir şekilde üçüncü şahısları rahatsız edecek, yasa dışı faaliyetlere zemin hazırlayacak ya da hizmetleri aksatacak biçimde kullanılmasından doğacak tüm yasal ve cezai sorumluluk kullanıcıya aittir. Geliştirici, bu yazılımın yasa dışı veya kötü niyetli kullanımı halinde ortaya çıkabilecek herhangi bir sonuçtan dolayı sorumluluk kabul etmemektedir.
-Bu Tool'un kullanımı sonucu doğabilecek veri kaybı, sistem arızası, yasal işlem ya da diğer zararlardan dolayı geliştirici hiçbir sorumluluk üstlenmez.
-Tool'u kullanarak, yukarıdaki maddeleri okuduğunuzu, anladığınızı ve kabul ettiğinizi beyan etmiş olursunuz.
+ğ—ğ—¨ğ—Ÿğ—Ÿğ—”ğ—¡ğ—œğ—–ğ—œ ğ—§ğ—”ğ—¥ğ—”ğ—™ğ—œğ—¡ğ——ğ—”ğ—¡ ğ—ğ—”ğ—•ğ—¨ğ—Ÿ ğ—˜ğ——ğ—œÌ‡ğ—Ÿğ—˜ğ—¡ ğ—¦Ì§ğ—”ğ—¥ğ—§ğ—Ÿğ—”ğ—¥:
+Bu Tool'u yalnÄ±zca kendi sahip olduÄŸunuz sistemler Ã¼zerinde veya yazÄ±lÄ± izninizin olduÄŸu sistemlerde kullanmayÄ± kabul etmektesiniz.
+Bu Tool'u herhangi bir ÅŸekilde Ã¼Ã§Ã¼ncÃ¼ ÅŸahÄ±slarÄ± rahatsÄ±z edecek, yasa dÄ±ÅŸÄ± faaliyetlere zemin hazÄ±rlayacak ya da hizmetleri aksatacak biÃ§imde kullanÄ±lmasÄ±ndan doÄŸacak tÃ¼m yasal ve cezai sorumluluk kullanÄ±cÄ±ya aittir. GeliÅŸtirici, bu yazÄ±lÄ±mÄ±n yasa dÄ±ÅŸÄ± veya kÃ¶tÃ¼ niyetli kullanÄ±mÄ± halinde ortaya Ã§Ä±kabilecek herhangi bir sonuÃ§tan dolayÄ± sorumluluk kabul etmemektedir.
+Bu Tool'un kullanÄ±mÄ± sonucu doÄŸabilecek veri kaybÄ±, sistem arÄ±zasÄ±, yasal iÅŸlem ya da diÄŸer zararlardan dolayÄ± geliÅŸtirici hiÃ§bir sorumluluk Ã¼stlenmez.
+Tool'u kullanarak, yukarÄ±daki maddeleri okuduÄŸunuzu, anladÄ±ÄŸÄ±nÄ±zÄ± ve kabul ettiÄŸinizi beyan etmiÅŸ olursunuz.
 
-𝗬𝗔𝗦𝗔𝗟 𝗨𝗬𝗔𝗥𝗜:
-Ülkenizin yasaları çerçevesinde, bu tür bir uygulamanın kullanımı ciddi yasal sonuçlara yol açabilir.
-Türkiye Cumhuriyeti Anayasası, 5651 sayılı İnternet Kanunu, Türk Ceza Kanunu’nun 243. ve 244. maddeleri ve ilgili diğer düzenlemeler, bu tip eylemleri “bilişim sistemine hukuka aykırı müdahale�? olarak değerlendirebilir.
-Bu eylemler sonucunda ağır para cezaları ve hapis cezaları uygulanabilir.
+ğ—¬ğ—”ğ—¦ğ—”ğ—Ÿ ğ—¨ğ—¬ğ—”ğ—¥ğ—œ:
+Ãœlkenizin yasalarÄ± Ã§erÃ§evesinde, bu tÃ¼r bir uygulamanÄ±n kullanÄ±mÄ± ciddi yasal sonuÃ§lara yol aÃ§abilir.
+TÃ¼rkiye Cumhuriyeti AnayasasÄ±, 5651 sayÄ±lÄ± Ä°nternet Kanunu, TÃ¼rk Ceza Kanunuâ€™nun 243. ve 244. maddeleri ve ilgili diÄŸer dÃ¼zenlemeler, bu tip eylemleri â€œbiliÅŸim sistemine hukuka aykÄ±rÄ± mÃ¼dahaleâ€? olarak deÄŸerlendirebilir.
+Bu eylemler sonucunda aÄŸÄ±r para cezalarÄ± ve hapis cezalarÄ± uygulanabilir.
 
-𝗧𝗔𝗩𝗦𝗜̇𝗬𝗘:
-Bu Tool'u sadece etik hackerlık, sızma testi (penetration testing), sistem güvenliği denetimi gibi yasal ve etik faaliyetlerde, ilgili yasal düzenlemelere uygun şekilde kullanınız.
-Her zaman öncelikli olarak yazılım etiğine ve bireysel gizlilik haklarına saygı gösteriniz.
+ğ—§ğ—”ğ—©ğ—¦ğ—œÌ‡ğ—¬ğ—˜:
+Bu Tool'u sadece etik hackerlÄ±k, sÄ±zma testi (penetration testing), sistem gÃ¼venliÄŸi denetimi gibi yasal ve etik faaliyetlerde, ilgili yasal dÃ¼zenlemelere uygun ÅŸekilde kullanÄ±nÄ±z.
+Her zaman Ã¶ncelikli olarak yazÄ±lÄ±m etiÄŸine ve bireysel gizlilik haklarÄ±na saygÄ± gÃ¶steriniz.
